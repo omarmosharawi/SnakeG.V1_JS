@@ -6,7 +6,9 @@ To use SnakeG_JS, you need to have a web browser that supports JavaScript. You c
 
 ## Getting Started
 To get started with SnakeG_JS, clone the repository to your local machine using the following command:
-``` git clone https://github.com/omarmosharawi/SnakeG_JS.git ```
+```
+git clone https://github.com/omarmosharawi/SnakeG_JS.git
+```
 
 ## How to Play
 - Open `index.html` in your web browser to start the game.
